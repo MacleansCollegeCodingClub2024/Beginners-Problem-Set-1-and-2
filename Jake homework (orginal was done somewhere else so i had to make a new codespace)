@@ -1,0 +1,8 @@
+print("welcome to mad libs!")
+name = input("What is your name: ")
+adj = input("Enter an adjective ")
+verb = input("enter a verb ")
+place = input("enter a place ")
+food = input("enter a food ")
+vehicle = input("enter a vehicle ")
+print (f"My name is {name} and i am very {adj} i take {verb} in {place} and then eat {food} in my {vehicle}")
